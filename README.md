@@ -61,7 +61,7 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
 
 
 [qwiklabs]: https://google.qwiklabs.com/public_profiles/708e6cb0-38dc-4d3f-b19a-7878e3353b3e
