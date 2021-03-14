@@ -61,6 +61,12 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
   </a>
 </p>
 
+<p>
+    <img src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact&langs_count=8" height=178 />
+</p>
+
+
 [qwiklabs]: https://google.qwiklabs.com/public_profiles/708e6cb0-38dc-4d3f-b19a-7878e3353b3e
 [youtube]: https://www.youtube.com/channel/UCuVJAKhCsG99kMxrUzK32fQ
 [instagram]: https://www.instagram.com/alfharizky/
