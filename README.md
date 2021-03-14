@@ -1,14 +1,17 @@
-## Hello World! :smiley_cat:
+## Hello World! :smiley_cat: I'm Alfharizky Fauzi!
+![Profile Views](https://gpvc.arturio.dev/alfharizkyfauzi)
+![image](https://img.shields.io/github/followers/alfharizkyfauzi?label=follow&style=social)
 
-I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world. 
+I'm Alfharizky, a **Informatics Engineering** Student & **Web Developer** :man_technologist::man_student: from indonesia. I'm passionate about programming and software engineering. I love to learn about new things especially in Tech world. 
 
 
 ## I'm a Student, and  Developer!
-- 👷‍♂️ I’m currently working on my portfolio website and freelance job
+- 👷‍♂️ I’m currently working on my personal projects and freelance job
 - 🚀 I’m currently learning to become a Fullstack Developer 🤣
 - 👋 I’m looking for developer friends!
-- 🎯 2020 Goals: Build up my resume and get an internship or jobs
-- ⚡ Fun fact: I love to playing music and learn new things
+- 🎯 2021 Goals: Build up my resume and get an internship or jobs
+- ⚡ Fun fact: I love to learn new things
+- 📫 You can reach me at <a href="mailto:alfharizky110999@gmail.com">alfharizky110999@gmail.com</a>
 
 ### Connect with me:
 
