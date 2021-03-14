@@ -53,11 +53,10 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
 </p>
 
-<a href="https://github.com/alfharizkyfauzi/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&hide_border=true" />
-</a>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&hide_border=true" />
 <a href="https://github.com/alfharizkyfauzi/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=alfharizkyfauzi&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact" />
 </a>
 
 
