@@ -54,7 +54,7 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 </p>
 <p>
   <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
-    <img height="178" width="100" align="center" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
+    <img height="178" align="center" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
   </a>
   <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact">
     <img height="178" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact" />
