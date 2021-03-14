@@ -49,7 +49,7 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 <p>
 
 <img alt="Alfharizky Fauzi Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&hide_border=true" height="178" />
-
+<img height="178" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact" />
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
 </p>
 <p>
