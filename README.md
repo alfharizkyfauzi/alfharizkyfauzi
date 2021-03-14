@@ -45,24 +45,8 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 ---
 
 
-
 <p>
-
-<img alt="Alfharizky Fauzi Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&hide_border=true" height="178" />
-<img height="178" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
-</p>
-<p>
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&include_all_commits=true&count_private=true">
-    <img height="178" align="center" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" />
-  </a>
-  <a target="_blank" href="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact">
-    <img height="178" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact" />
-  </a>
-</p>
-
-<p>
-    <img src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&include_all_commits=true&count_private=true" height=178 />
+    <img src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&theme=radical&show_icons=true&include_all_commits=true&count_private=true&hide_border=true" height=178 />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact&langs_count=8" height=178 />
 </p>
 
