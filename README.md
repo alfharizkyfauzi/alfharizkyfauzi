@@ -48,10 +48,18 @@ I'm Alfharizky, a Informatics Engineering Student & Freelance Web Developer :man
 
 <p>
 
-<img alt="Alfharizky Fauzi Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&hide_border=true" />
+<img alt="Alfharizky Fauzi Github Stats" src="https://github-readme-stats.vercel.app/api?username=alfharizkyfauzi&hide=prs,issues&theme=radical&show_icons=true&hide_border=true" height="178" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alfharizkyfauzi&layout=compact)](https://github.com/alfharizkyfauzi/github-readme-stats)
 </p>
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
 
 [qwiklabs]: https://google.qwiklabs.com/public_profiles/708e6cb0-38dc-4d3f-b19a-7878e3353b3e
 [youtube]: https://www.youtube.com/channel/UCuVJAKhCsG99kMxrUzK32fQ
